@@ -21,8 +21,7 @@ The repository should contain the following required files:
 ## Authors
 Theodore Rieger*, Richard Allen*, CJ Musante
 
-\* Joint first and corresponding authors  
-\** Correspondence to: richard.allen@pfizer.com or ted.rieger@pfizer.com
+\* Correspondence to: richard.allen@pfizer.com or ted.rieger@pfizer.com
 
 [![DOI](https://zenodo.org/badge/321780036.svg)](https://zenodo.org/badge/latestdoi/321780036)
 
