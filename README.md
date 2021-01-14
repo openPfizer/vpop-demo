@@ -23,7 +23,7 @@ Theodore Rieger*, Richard Allen*, CJ Musante
 
 \* Correspondence to: richard.allen@pfizer.com or ted.rieger@pfizer.com
 
-[![DOI](https://zenodo.org/badge/321780036.svg)](https://zenodo.org/badge/latestdoi/321780036)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4432561.svg)](https://doi.org/10.5281/zenodo.4432561)
 
 ![alt text](https://github.com/openPfizer/DigitalHealthData/blob/master/img/osbypfizer.png)
 
